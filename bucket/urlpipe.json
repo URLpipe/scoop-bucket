@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/URLpipe/urlpipe-go/releases/download/v0.2.0/urlpipe_0.2.0_windows_amd64.zip",
+            "bin": [
+                "urlpipe.exe"
+            ],
+            "hash": "8949d9f99cf260945948ad637f466e5148b4788d3a518881fe9baa0cb2225e89"
+        },
+        "arm64": {
+            "url": "https://github.com/URLpipe/urlpipe-go/releases/download/v0.2.0/urlpipe_0.2.0_windows_arm64.zip",
+            "bin": [
+                "urlpipe.exe"
+            ],
+            "hash": "92851cf1b66cf541316010d0c162ffaf92cdc1fa3a5438da51400082ff70de38"
+        }
+    },
+    "homepage": "https://urlpipe.dev",
+    "license": "MIT",
+    "description": "Turn any URL into Markdown, screenshots, metadata or a Lighthouse audit, from the terminal."
+}
