@@ -1,19 +1,19 @@
 {
-    "version": "0.3.0",
+    "version": "0.3.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/URLpipe/urlpipe-go/releases/download/v0.3.0/urlpipe_0.3.0_windows_amd64.zip",
+            "url": "https://github.com/URLpipe/urlpipe-go/releases/download/v0.3.1/urlpipe_0.3.1_windows_amd64.zip",
             "bin": [
                 "urlpipe.exe"
             ],
-            "hash": "71b7fd2e220c5b1deb37dcd7a55a3fdbb171f1fcdfd7c4c8b55638a3a56e5ec1"
+            "hash": "167799cfc7c0b0ea74a5bf0185a4f0de6270dd6f1dff8b3fbe92e3e47114c02e"
         },
         "arm64": {
-            "url": "https://github.com/URLpipe/urlpipe-go/releases/download/v0.3.0/urlpipe_0.3.0_windows_arm64.zip",
+            "url": "https://github.com/URLpipe/urlpipe-go/releases/download/v0.3.1/urlpipe_0.3.1_windows_arm64.zip",
             "bin": [
                 "urlpipe.exe"
             ],
-            "hash": "f18158e62428d9441d50d5cc3734339748e305e50d7d170d3cf88fc415846c79"
+            "hash": "a33f165daf29533b3439f5e9eb18d270f01a036711dfaeecefa4307aa8abaa97"
         }
     },
     "homepage": "https://urlpipe.dev",
